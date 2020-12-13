@@ -1,2 +1,2 @@
 # IndicNLP
-Natural Language Processing on Indian Languages
+Workshop material for Natural Language Processing on Indian Languages
