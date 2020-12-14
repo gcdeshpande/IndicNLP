@@ -18,4 +18,11 @@ Setup the environment locally
 4. Push the modified scripts to GitHub repository.
 
 # Setup Instructions
-updated soon
+1. Install iNLTK - [link](https://pypi.org/project/inltk/)
+    pip install inltk
+    
+2. Install indic-nlp-library [link](https://pypi.org/project/indic-nlp-library/)
+    pip install indic-nlp-library
+
+3. install stanza(previously stanfordNLP)  [link](https://github.com/stanfordnlp/stanza/)
+    pip install stanza
