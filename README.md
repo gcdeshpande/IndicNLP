@@ -17,9 +17,13 @@ Setup the environment locally
 3. Modify the python scripts, save and run.
 4. Push the modified scripts to GitHub repository.
 
+# My Setup
+Operating System: Ubuntu 20.4 LTS  
+Python Version: 3.8  
+
 # Setup Instructions
 1. Install iNLTK - [link](https://pypi.org/project/inltk/)  
-    pip install torch==1.3.1+cpu -f https://download.pytorch.org/whl/torch_stable.html  
+    pip install torch==1.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html  
     pip install inltk  
     
 2. Install indic-nlp-library [link](https://pypi.org/project/indic-nlp-library/)  
