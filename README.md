@@ -19,6 +19,7 @@ Setup the environment locally
 
 # Setup Instructions
 1. Install iNLTK - [link](https://pypi.org/project/inltk/)  
+    pip install torch==1.3.1+cpu -f https://download.pytorch.org/whl/torch_stable.html  
     pip install inltk  
     
 2. Install indic-nlp-library [link](https://pypi.org/project/indic-nlp-library/)  
