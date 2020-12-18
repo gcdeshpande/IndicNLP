@@ -11,11 +11,19 @@ OR
 
 Setup the environment locally
 
+# Easy Setup
+1. Open the URL https://www.kaggle.com/kernels?language=Python
+2. Create account and Sign-in
+3. Create a new notebook with python
+4. Go to settings and enable accelerator and Internet
+5. Install packages using the commands in setup instructions (append ! before pip) 
+
 # During the workshop
 1. Import the repository to repl.it
 2. Execute the python scripts
 3. Modify the python scripts, save and run.
 4. Push the modified scripts to GitHub repository.
+
 
 # My Setup
 Operating System: Ubuntu 20.4 LTS  
