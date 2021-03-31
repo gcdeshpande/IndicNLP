@@ -1,5 +1,5 @@
 # IndicNLP
-Workshop material for Natural Language Processing on Indian Languages
+Workshop material for Natural Language Processing on Indian Languages. This workshop was delivered at SciPy India 2020, BelPy 2021 and FOSSASIA 2021.
 
 # Before the workshop
 1. Create a GitHub account - [link](https://www.github.com)
